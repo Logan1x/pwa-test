@@ -1,0 +1,29 @@
+{
+    "background_color": "#ffffff",
+    "description": "This is test pwa app.",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "supabase-test",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "supabase-test",
+    "start_url": "/",
+    "theme_color": "#000000",
+    "categories": [],
+    "screenshots": [],
+    "icons": [
+        {
+            "src": "/src/assets/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/src/assets/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "shortcuts": [],
+    "lang": "en"
+  }
